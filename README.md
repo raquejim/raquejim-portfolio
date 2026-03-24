@@ -29,7 +29,7 @@ Welcome to my data portfolio! Here, I document all of my projects
 
 # Tableau
 
-| Project Link | Project Description | Dashboard Link | Completion Date |
+| Project Title | Project Description | Dashboard Link | Completion Date |
 |---|---|---|---|
 | 📈 [Transportation Emission VS Population Density]| meow | [Dashboard](https://public.tableau.com/views/TransportationEmissionVSPopulationDensityinUSAJapanandFrance2015/Sheet1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |February 2026|
 | 🚮 [Global MSW per capita VS GDP per capita] | meow | [Dashboard](https://public.tableau.com/views/GlobalMSWpercapitaVSGDPpercapita/Sheet1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | March 2026 |
