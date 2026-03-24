@@ -24,7 +24,7 @@ Welcome to my data portfolio! Here, I document all of my projects
 | Project Link | Area | Project Description | Libraries | Completion Date |   
 |---|---|---|---|---|
 | 📲 ["GuideMe" Capstone Project](https://github.com/tinakralimarkova1/GuideMe) | Machine Learning, Natural Language Processing | Android application designed to help elderly adults and first-time smartphone users learn essential mobile skills through guided, interactive simulations. Within the app there's voice and text search, where users can get recommended lessons based on their query. This feature was developed by training a convolutional network that was then transferred to Android Studio through TensorFlow Lite. | pandas, numpy, tensorflow, matplotlib | September 2025 - December 2025 | 
-
+| 📲 ["GuideMe" Capstone Project](https://github.com/tinakralimarkova1/GuideMe) | Machine Learning, Natural Language Processing | Android application designed to help elderly adults and first-time smartphone users learn essential mobile skills through guided, interactive simulations. Within the app there's voice and text search, where users can get recommended lessons based on their query. This feature was developed by training a convolutional network that was then transferred to Android Studio through TensorFlow Lite. | pandas, numpy, tensorflow, matplotlib | September 2025 - December 2025 | 
 ***
 
 # Tableau
@@ -40,9 +40,11 @@ Welcome to my data portfolio! Here, I document all of my projects
 |---|---|---|
 | 🌡️ [Surface Temperature and Builtup Area](https://github.com/raquejim/gee-surface-temp-and-builtup-area/blob/main/README.md) | meow | Feb 2026 |
 
-| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
-| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
-| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
+| 🌊 [Sea Level Rise in Coastal Cities](https://github.com/raquejim/gee-surface-temp-and-builtup-area/blob/main/README.md) | meow | Feb 2026 |
+
+| 🌾 [Cropland Loss from Urban Expansion](https://github.com/raquejim/gee-surface-temp-and-builtup-area/blob/main/README.md) | meow | March 2026 |
+
+| 🌎 [Global Warming Effect on Landfill](https://github.com/raquejim/gee-surface-temp-and-builtup-area/blob/main/README.md) | meow | March 2026 |
 
 # Stata
 
