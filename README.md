@@ -24,7 +24,7 @@ Welcome to my data portfolio! Here, I document all of my projects
 | Project Link | Area | Project Description | Libraries | Completion Date |   
 |---|---|---|---|---|
 | 📲 ["GuideMe" Capstone Project](https://github.com/tinakralimarkova1/GuideMe) | Machine Learning, Natural Language Processing | Android application designed to help elderly adults and first-time smartphone users learn essential mobile skills through guided, interactive simulations. Within the app there's voice and text search, where users can get recommended lessons based on their query. This feature was developed by training a convolutional network that was then transferred to Android Studio through TensorFlow Lite. | pandas, numpy, tensorflow, matplotlib | September 2025 - December 2025 | 
-| 👩🏻‍🏫 [Energy Performance Optimization Through Course Scheduling] | optimization | meow | pandas, numpy, tensorflow, matplotlib | May 2025 | 
+| 👩🏻‍🏫 [Energy Performance Optimization Through Course Scheduling](https://github.com/raquejim/NYUSH-energy-optimization) | Linear Programming, Optimization | Optimization model that aims to lower the energy consumption of HVAC technologies at the NYU Shanghai academic building through more efficient course scheduling of faculty. Model was able to find a feasible solution of 32 courses's groups with the possibility of saving over 7000 RMB for just the Chinese Language department. | - | May 2025 | 
 ***
 
 # Tableau
