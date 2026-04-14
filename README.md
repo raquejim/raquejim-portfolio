@@ -43,7 +43,7 @@ Bienvenidos a mi portafolio! Aqui tengo enlistados todos mis proyectos en base a
 | 🌡️ [Surface Temperature and Builtup Area](https://github.com/raquejim/gee-surface-temp-and-builtup-area) | Visualization used to investigate the relationship between surface temperature and percentage of built-up area in the city of Madrid | Feb 2026 |
 | 🌊 [Sea Level Rise in Coastal Cities](https://github.com/raquejim/gee-sea-level-rise-coastal-cities) | Visualization used to predict which areas within coastal cities will be affected in the future due to rising sea levels for the year 2110, more specifically in Miami and Shanghai | Feb 2026 |
 | 🌾 [Cropland Loss from Urban Expansion](https://github.com/raquejim/gee-cropland-loss-urban-expansion) | Visualization used to analyze how much cropland will be lost as the cities of Ho Chi Minh and Bangkok expand over time | March 2026 |
-| 🌎 [Global Warming Effect on Landfill](https://github.com/raquejim/gee-global-warming-effect-landfill) | meow | March 2026 |
+| 🌎 [Global Warming Effect on Landfill](https://github.com/raquejim/gee-global-warming-effect-landfill) | Series of visualizations used to analyze which cities’ landfills may be most affected by global warming utilizing multiple datasets on waste, economic growth, and urbanization| March 2026 |
 
 # Stata
 
