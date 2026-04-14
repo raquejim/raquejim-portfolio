@@ -38,7 +38,7 @@ Welcome to my data portfolio! Here, I document all of my projects
 
 | Project Link | Project Description |  Completion Date |  
 |---|---|---|
-| 🌡️ [Surface Temperature and Builtup Area](https://github.com/raquejim/gee-surface-temp-and-builtup-area/blob/main/README.md) | meow | Feb 2026 |
+| 🌡️ [Surface Temperature and Builtup Area](https://github.com/raquejim/gee-surface-temp-and-builtup-area) | meow | Feb 2026 |
 | 🌊 [Sea Level Rise in Coastal Cities](https://github.com/raquejim/gee-sea-level-rise-coastal-cities) | meow | Feb 2026 |
 | 🌾 [Cropland Loss from Urban Expansion](https://github.com/raquejim/gee-cropland-loss-urban-expansion) | meow | March 2026 |
 | 🌎 [Global Warming Effect on Landfill](https://github.com/raquejim/gee-global-warming-effect-landfill) | meow | March 2026 |
