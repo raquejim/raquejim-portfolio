@@ -1,6 +1,8 @@
 # Raquel's Portfolio
 
-Welcome to my data portfolio! Here, I document all of my projects
+Welcome to my data portfolio! Here, I document all of my projects based on the language/tool used 
+
+Bienvenidos a mi portafolio! Aqui tengo enlistados todos mis proyectos en base a la herramienta usada 
 
 ## 🔎 Table of Contents
 - [SQL](#sql)
@@ -38,9 +40,9 @@ Welcome to my data portfolio! Here, I document all of my projects
 
 | Project Link | Project Description |  Completion Date |  
 |---|---|---|
-| 🌡️ [Surface Temperature and Builtup Area](https://github.com/raquejim/gee-surface-temp-and-builtup-area) | meow | Feb 2026 |
-| 🌊 [Sea Level Rise in Coastal Cities](https://github.com/raquejim/gee-sea-level-rise-coastal-cities) | meow | Feb 2026 |
-| 🌾 [Cropland Loss from Urban Expansion](https://github.com/raquejim/gee-cropland-loss-urban-expansion) | meow | March 2026 |
+| 🌡️ [Surface Temperature and Builtup Area](https://github.com/raquejim/gee-surface-temp-and-builtup-area) | Visualization used to investigate the relationship between surface temperature and percentage of built-up area in the city of Madrid | Feb 2026 |
+| 🌊 [Sea Level Rise in Coastal Cities](https://github.com/raquejim/gee-sea-level-rise-coastal-cities) | Visualization used to predict which areas within coastal cities will be affected in the future due to rising sea levels for the year 2110, more specifically in Miami and Shanghai | Feb 2026 |
+| 🌾 [Cropland Loss from Urban Expansion](https://github.com/raquejim/gee-cropland-loss-urban-expansion) | Visualization used to analyze how much cropland will be lost as the cities of Ho Chi Minh and Bangkok expand over time | March 2026 |
 | 🌎 [Global Warming Effect on Landfill](https://github.com/raquejim/gee-global-warming-effect-landfill) | meow | March 2026 |
 
 # Stata
